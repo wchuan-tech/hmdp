@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bc3f1fd-c30f-4711-ac8c-f46eebda2d99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nginx-1.18.0/html/hmdp" beforeDir="false" afterPath="$PROJECT_DIR$/nginx-1.18.0/html/hmdp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx-1.18.0/html/hmdp/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/nginx-1.18.0/html/hmdp/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx-1.18.0/html/hmdp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/nginx-1.18.0/html/hmdp/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="NewLua" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;wchuan-tech&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/wchuan-tech/hmdp.git&quot;,
+    &quot;accountId&quot;: &quot;5a19fac5-c276-4ed5-adac-6f4cdb3942bb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="32Va4iK0JwqvoVItpMDRqmY9SL0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RedisIdWorker.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HmDianPingApplicationTests.loadShopData.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HmDianPingApplicationTests.testHyperLogLog.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HmDianPingApplicationTests.testSaveShop.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HmDianPingApplicationTests.tetstIdWorker.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HmDianPingApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HmDianPingApplication2.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Redis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hmdp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hmdp.utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HmDianPingApplicationTests.testHyperLogLog">
+    <configuration name="HmDianPingApplicationTests.loadShopData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="loadShopData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testHyperLogLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testHyperLogLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testSaveShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testSaveShop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.tetstIdWorker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="tetstIdWorker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hm-dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HmDianPingApplicationTests.loadShopData" />
+      <item itemvalue="JUnit.HmDianPingApplicationTests.testHyperLogLog" />
+      <item itemvalue="JUnit.HmDianPingApplicationTests.testSaveShop" />
+      <item itemvalue="JUnit.HmDianPingApplicationTests.tetstIdWorker" />
+      <item itemvalue="Spring Boot.HmDianPingApplication2" />
+      <item itemvalue="Spring Boot.HmDianPingApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testHyperLogLog" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.loadShopData" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testSaveShop" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.tetstIdWorker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc3f1fd-c30f-4711-ac8c-f46eebda2d99" name="Changes" comment="" />
+      <created>1757508005460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757508005460</updated>
+      <workItem from="1757508007456" duration="2276000" />
+      <workItem from="1757589771578" duration="2868000" />
+      <workItem from="1757593492752" duration="89000" />
+      <workItem from="1757929644959" duration="10490000" />
+      <workItem from="1758019722363" duration="6316000" />
+      <workItem from="1758108610098" duration="6787000" />
+      <workItem from="1758154575226" duration="36000" />
+      <workItem from="1758180353584" duration="2651000" />
+      <workItem from="1758193014580" duration="6589000" />
+      <workItem from="1758199947227" duration="88000" />
+      <workItem from="1758200086907" duration="14000" />
+      <workItem from="1758200142135" duration="69000" />
+      <workItem from="1758200389173" duration="2117000" />
+      <workItem from="1758347530980" duration="1134000" />
+      <workItem from="1758349058084" duration="2420000" />
+      <workItem from="1758352472463" duration="6550000" />
+      <workItem from="1758507370478" duration="149000" />
+      <workItem from="1758507562139" duration="6382000" />
+      <workItem from="1758519875962" duration="1256000" />
+      <workItem from="1758529031205" duration="4090000" />
+      <workItem from="1758625363046" duration="3457000" />
+      <workItem from="1758629153186" duration="1276000" />
+      <workItem from="1758630541089" duration="251000" />
+      <workItem from="1758630831047" duration="206000" />
+      <workItem from="1758631226087" duration="2101000" />
+      <workItem from="1758675360846" duration="3058000" />
+      <workItem from="1758680432823" duration="3702000" />
+      <workItem from="1758693662173" duration="905000" />
+      <workItem from="1758701878344" duration="7563000" />
+      <workItem from="1758766696988" duration="1095000" />
+      <workItem from="1758788786304" duration="523000" />
+      <workItem from="1758872121890" duration="5631000" />
+      <workItem from="1759029425054" duration="2412000" />
+      <workItem from="1759047830526" duration="3976000" />
+      <workItem from="1759051829612" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
